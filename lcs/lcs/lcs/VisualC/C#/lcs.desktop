@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=lcs
+Exec=lcs
+Terminal=true
+GenericName=local connect sectors
+Comment=dialog electronic
+Categories=Development;GUIDesigner;Profiling;WebDevelopment;Building;Debugger;Translation;Database;RevisionControl;IDE;ProjectManagement;
+MimeType=2ai;

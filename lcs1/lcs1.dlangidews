@@ -1,0 +1,9 @@
+{
+    "name": "lcs1",
+    "description": null,
+    "projects": {
+        "lcs1": "lcs1/dub.json"
+    },
+    "includePath": {
+    }
+}
